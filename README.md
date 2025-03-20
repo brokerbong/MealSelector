@@ -18,7 +18,7 @@
 > auto number 가게 정보
 > 
 > 가게 메뉴 multi 선택
->> 가게 code, 메뉴 code, 상위메뉴 code, 가격
+>> 메뉴 code, 가게 code, 상위메뉴 code, 가격, multi 여부
 >
 > 리뷰 백터디비 사용
 > 
