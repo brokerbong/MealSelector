@@ -1,6 +1,14 @@
 # MealSelector
 
-Flask + Jinja2
+##사용 파이썬, 라이브러리
+ - python 3.13
+ - Flask
+ - Jinja2
+
+##Database
+ - Postgresql
+
+
 
 auto number 가게 정보
 
