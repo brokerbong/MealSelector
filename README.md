@@ -32,15 +32,15 @@ mealSelector/
 * Profile                # 실행파일
 * static/                # CSS, JS 저장
 * templates/             # HTML 템플릿 저장
- * base.html             #
- * index.html            #
- * notice/               #
-  * list.html            #
-  * detail.html          #
+  * base.html             #
+  * index.html            #
+  * notice/               #
+    * list.html            #
+    * detail.html          #
 * views/                 # Blueprint 기반 라우팅 관리
- * __init__.py           #
- * notice.py             #
+  * __init__.py           #
+  * notice.py             #
 * models/                # 데이터베이스 모델 관리
- * __init__.py           #
- * notice.py             #
+  * __init__.py           #
+  * notice.py             #
 * database.py            # DB 연결 및 설정
