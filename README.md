@@ -38,7 +38,7 @@ mealSelector/
     * list.html            #
     * detail.html          #
 * views/                 # Blueprint 기반 라우팅 관리
-  * __init__.py           #
+  * \_\_init\_\_.py           #
   * notice.py             #
 * models/                # 데이터베이스 모델 관리
   * __init__.py           #
