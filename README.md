@@ -7,7 +7,8 @@
  - Jinja2 -> web component 구조 만들기 위한 라이브러리
 
 #### Database
- - Postgresql
+ - MySQL
+ - S3
 
 #### 생각나는 기능
 > 메뉴선택 글 마다 수정, 삭제 비밀번호 db저장 -> password coulmm?
