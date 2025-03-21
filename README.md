@@ -6,7 +6,7 @@
  - Flask -> web server
  - Jinja2 -> web component 구조 만들기 위한 라이브러리
 
-#### Database
+#### Data Storage
  - MySQL
  - S3
 
