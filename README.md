@@ -41,6 +41,6 @@ mealSelector/
   * \_\_init\_\_.py           #
   * notice.py             #
 * models/                # 데이터베이스 모델 관리
-  * __init__.py           #
+  * \_\_init\_\_.py           #
   * notice.py             #
 * database.py            # DB 연결 및 설정
