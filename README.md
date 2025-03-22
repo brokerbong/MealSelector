@@ -8,8 +8,8 @@
 
 
 #### Data Storage
-MySQL <br>
-S3 <br>
+- MySQL
+- S3
 
 
 #### 생각나는 기능
