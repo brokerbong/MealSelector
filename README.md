@@ -49,3 +49,9 @@ mealSelector/
   - __init__.py `#`
   - notice.py `#`
 - database.py `# DB 연결 및 설정`
+
+  ------------
+  #### 참고
+  1. `https://flask.palletsprojects.com/en/stable/`
+  2. jinja `https://flask.palletsprojects.com/en/stable/templating/#jinja-setup`
+  3. lifecycle `https://flask.palletsprojects.com/en/stable/lifecycle/`
