@@ -2,9 +2,9 @@
 
 
 #### 라이브러리
- python 3.13 <br>
- Flask -> web server <br>
- Jinja2 -> web component 구조 만들기 위한 라이브러리 <br>
+ - python 3.13
+ - Flask -> `web server`
+ - Jinja2 -> `web component 구조 만들기 위한 라이브러리`
 
 
 #### Data Storage
