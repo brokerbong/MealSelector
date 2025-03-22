@@ -8,7 +8,7 @@
 
 
 #### Data Storage
-- MySQL
+- Postgresql
 - S3
 
 #### 생각나는 기능
