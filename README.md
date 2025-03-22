@@ -28,7 +28,7 @@ S3
 mealSelector/
 - app.py Flask `메인 파일`
 - config.py `설정 파일`
- - requirements.txt `패키지 목록`
+  - requirements.txt `패키지 목록`
 - Profile `실행파일`
 - static/ `CSS, JS 저장`
 - templates/ `HTML 템플릿 저장`
