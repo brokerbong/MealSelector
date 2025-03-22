@@ -55,3 +55,4 @@ mealSelector/
   1. `https://flask.palletsprojects.com/en/stable/`
   2. jinja `https://flask.palletsprojects.com/en/stable/templating/#jinja-setup`
   3. lifecycle `https://flask.palletsprojects.com/en/stable/lifecycle/`
+  4. async `https://flask.palletsprojects.com/en/stable/async-await/`
