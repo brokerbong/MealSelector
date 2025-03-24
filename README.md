@@ -13,6 +13,7 @@
 
 #### CSS
  - Bulma ` https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css `
+   - https://bulma.io/
    - https://github.com/app-generator/flask-bulma-css/tree/master
 
 #### 생각나는 기능
