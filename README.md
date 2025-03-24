@@ -11,6 +11,10 @@
 - Postgresql
 - S3
 
+#### CSS
+ - Bulma ` https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css `
+   - https://github.com/app-generator/flask-bulma-css/tree/master
+
 #### 생각나는 기능
 - 메뉴선택 글 마다 수정, 삭제 비밀번호 db저장 -> password coulmm?
 
