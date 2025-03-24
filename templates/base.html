@@ -3,14 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}My Website{% endblock %}</title>
+    <title>{% block title %}귀차니즘{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 </head>
 <body>
-
-    <nav>
-        <a href="/">Home</a>
-        <a href="/notice">공지사항</a>
-    </nav>
+    <div class="tabs">
+      <ul>
+        <li class="is-active"><a href="/">Home</a></li>
+        <li><a href="/notice">공지사항</a></li>
+      </ul>
+    </div>
 
     <div>
         {% block content %}{% endblock %}
