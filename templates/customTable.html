@@ -11,7 +11,7 @@
       {% for row in rows %}
         <tr>
           {% for col in columns %}
-            <td>{{ row[col] }}</td>
+            <a href="{{ url_prefix }}/{{ row['id'] }}">{{ row[col] }}</a>
           {% endfor %}
         </tr>
       {% endfor %}
