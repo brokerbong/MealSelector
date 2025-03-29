@@ -14,6 +14,8 @@
     
       {% set columns = ["id", "title", "created_at"] %}
       {% set rows = notices %}
+      {% set link_columns = ["title"] %}
+        {% set url_prefix = "/notice" %}
     
       {% include "customTable.html" with context %}
 {% endblock %}
