@@ -1,10 +1,19 @@
 {% extends "base.html" %}
-
-{% block content %}
-    <h1>공지사항 목록</h1>
-    <ul>
+<!--{"id": 1, "title": "첫 번째 공지사항", "content": "공지사항 내용 1"},
+    {"id": 2, "title": "두 번째 공지사항", "content": "공지사항 내용 2"},
+<ul>
         {% for notice in notices %}
             <li><a href="/notice/{{ notice.id }}">{{ notice.title }}</a></li>
         {% endfor %}
+
+        
     </ul>
+        -->
+{% block content %}
+    <h1>공지사항 목록</h1>
+    
+      {% set columns = ["id", "title", "created_at"] %}
+      {% set rows = notices %}
+    
+      {% include "components/table.html" with context %}
 {% endblock %}
